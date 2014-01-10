@@ -7,7 +7,7 @@ Please do not download until it is finished or at least tested!
 
 
 
-Donations are welcomed:
+Donations to support this effort are welcomed:
 
 XPM: AP9HLRYESPzWnq4k7KHXqCahXHJ56Aje9k
 
