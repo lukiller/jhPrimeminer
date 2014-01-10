@@ -1,14 +1,11 @@
 jhPrimeminer
 ============
 
-jhPrimeminer is a optimized pool miner for primecoin.
+This version was forked from rdebourbon on Jan/10/2014. It is just experimental, I am trying to use jhPrimerminer through proxy and domain servers using NTLM authentication.
 
-Binary versions will be made available here:
-https://www.dropbox.com/sh/sq24hzo993afy9c/l7icP0KiuM
+Please do not download until it is finished or at least tested!
 
-If you found this helpfull you can support my work.
-
-XPM: AUwKMCYCacE6Jq1rsLcSEHSNiohHVVSiWv
-LTC: LV7VHT3oGWQzG9EKjvSXd3eokgNXj6ciFE
-BTC: 1Fph7y622HJ5Cwq4bkzfeZXWep2Jyi5kp7
+Donations are welcomed:
+XPM: AP9HLRYESPzWnq4k7KHXqCahXHJ56Aje9k
+BTC: 1FengzJZCvxe3VU1M8qYdTx2QnDyGShbGZ
 	
