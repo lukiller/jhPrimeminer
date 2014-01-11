@@ -1871,17 +1871,13 @@ int main(int argc, char **argv)
    // print header
    printf("\n");
    printf("\xC9\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xBB\n");
-   printf("\xBA  jhPrimeMiner - mod by rdebourbon -v3.4beta                   \xBA\n");
-   printf("\xBA     merged with hg5fm (mumus) v8.0 build                      \xBA\n");
-   printf("\xBA  author: JH (http://ypool.net)                                \xBA\n");
-   printf("\xBA  contributors: x3maniac                                       \xBA\n");
-   printf("\xBA  Credits: Sunny King for the original Primecoin client&miner  \xBA\n");
-   printf("\xBA  Credits: mikaelh for the performance optimizations           \xBA\n");
+   printf("\xBA  jhPrimeMiner - mod by lukiller v0.1[alpha]                   \xBA\n");
    printf("\xBA                                                               \xBA\n");
-   printf("\xBA  Donations:                                                   \xBA\n");
-   printf("\xBA        XPM: AUwKMCYCacE6Jq1rsLcSEHSNiohHVVSiWv                \xBA\n");
-   printf("\xBA        LTC: LV7VHT3oGWQzG9EKjvSXd3eokgNXj6ciFE                \xBA\n");
-   printf("\xBA        BTC: 1Fph7y622HJ5Cwq4bkzfeZXWep2Jyi5kp7                \xBA\n");
+   printf("\xBA  Credits: JH, Sunny King, rdebourbon                          \xBA\n");
+   printf("\xBA                                                               \xBA\n");
+   printf("\xBA  Donations to support this effort are welcomed:               \xBA\n");
+   printf("\xBA        XPM: AP9HLRYESPzWnq4k7KHXqCahXHJ56Aje9k                \xBA\n");
+   printf("\xBA        BTC: 1FengzJZCvxe3VU1M8qYdTx2QnDyGShbGZ                \xBA\n");
    printf("\xC8\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xBC\n");
    printf("Launching miner...\n");
    // set priority lower so the user still can do other things
